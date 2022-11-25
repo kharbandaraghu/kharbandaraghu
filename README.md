@@ -1,8 +1,7 @@
 <!-- Profile Picture -->
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://drive.google.com/uc?export=download&id=1CVwa_RTxmFAywUI7aaL4ovfGi2BIBAHp" alt="profile image" height="165"
-    style="border-radius: 100%">
+    <img src="https://media1.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif?cid=ecf05e47s4qgpfyf4qzo41tqg2fvstd7wwb8ujof8zbqxb4g&rid=giphy.gif&ct=g" alt="profile image" height="165">
   </a>
 </p>
 <!-- Name and tagline -->
@@ -13,7 +12,6 @@
 </p>
 <p align="right"><i>~ quote by me </i>😉</p>
 
----
 <br>
 <h2 align="center">Let's talk about 🤓</h2>
 
@@ -26,7 +24,6 @@
 * 🧠 Psychology
 * 🧘 Life Optimization
 
----
 <br>
 <h2 align="center">Find me here 👨‍💻</h2>
 
