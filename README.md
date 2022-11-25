@@ -13,18 +13,6 @@
 <p align="right"><i>~ quote by me </i>😉</p>
 
 <br>
-<h2 align="center">Let's talk about 🤓</h2>
-
-* 💻 Programming
-* 🌐 Web Development
-* 🤖 Machine Learning
-* 📈 Investments
-* 💰 Finance
-* 💹 Trading
-* 🧠 Psychology
-* 🧘 Life Optimization
-
-<br>
 <h2 align="center">Find me here 👨‍💻</h2>
 
 <p align="center">
@@ -38,3 +26,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
+
+<br>
+<h2 align="center">Let's talk about 🤓</h2>
+
+* 💻 Programming
+* 🌐 Web Development
+* 🤖 Machine Learning
+* 📈 Investments
+* 💰 Finance
+* 💹 Trading
+* 🧠 Psychology
+* 🧘 Life Optimization
+
+
