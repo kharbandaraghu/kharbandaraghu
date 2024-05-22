@@ -2,7 +2,7 @@
 <p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img
             src="https://media1.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif?cid=ecf05e47s4qgpfyf4qzo41tqg2fvstd7wwb8ujof8zbqxb4g&rid=giphy.gif&ct=g"
             alt="profile image" height="150px" width="150px"> </a> </p> <!-- Name and tagline -->
-<h3 align="center">👋 Hi, I'm <a href="https://instagram.com/ifraghavthenraghav" target="_blank">Raghav</a></h3>
+<h3 align="center">👋 Hi, I'm <a href="https://instagram.com/ifraghavthenraghav" target="_blank">Raghav (Ray)</a></h3>
 <p align="center"> "If you have a basic knowledge of something and access to the internet, you actually have a godly
     knowledge of it." </p>
 <p align="right"><i>~ quote by me </i>😉</p> <br>
